@@ -1,0 +1,15 @@
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\bin\Debug\net7.0\Fretboard Randomizer.exe
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\bin\Debug\net7.0\Fretboard Randomizer.deps.json
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\bin\Debug\net7.0\Fretboard Randomizer.runtimeconfig.json
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\bin\Debug\net7.0\Fretboard Randomizer.dll
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\bin\Debug\net7.0\Fretboard Randomizer.pdb
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\obj\Debug\net7.0\Fretboard Randomizer.csproj.AssemblyReference.cache
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\obj\Debug\net7.0\Fretboard Randomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\obj\Debug\net7.0\Fretboard Randomizer.AssemblyInfoInputs.cache
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\obj\Debug\net7.0\Fretboard Randomizer.AssemblyInfo.cs
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\obj\Debug\net7.0\Fretboard Randomizer.csproj.CoreCompileInputs.cache
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\obj\Debug\net7.0\Fretboard Randomizer.dll
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\obj\Debug\net7.0\refint\Fretboard Randomizer.dll
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\obj\Debug\net7.0\Fretboard Randomizer.pdb
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\obj\Debug\net7.0\Fretboard Randomizer.genruntimeconfig.cache
+C:\Users\turtl_8r5za7n\Desktop\Visual Studio Code\Fretboard Randomizer\obj\Debug\net7.0\ref\Fretboard Randomizer.dll
